@@ -1,3 +1,7 @@
 data0/
 data/
 .ipynb_checkpoints/
+.idea/
+models/
+pred.csv
+
